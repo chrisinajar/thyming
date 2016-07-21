@@ -1,6 +1,6 @@
 {
   "name": "thyming",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Small wrappers for setTimeout and setInterval which return methods to cancel them.",
   "main": "index.js",
   "scripts": {
